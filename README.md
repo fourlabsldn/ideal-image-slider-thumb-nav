@@ -6,6 +6,20 @@ Adds thumb navigation to the Ideal Image Slider.
 
 * [Ideal Image Slider](https://github.com/gilbitron/Ideal-Image-Slider) v1.2.0+
 
+## Installation
+
+### NPM
+
+```
+npm install ideal-image-slider-thumb-nav --save
+```
+
+### Bower
+
+```
+bower install ideal-image-slider-thumb-nav --save
+```
+
 ## Usage
 
 The `iis-thumb-nav.js` must be included after `ideal-image-slider.js` and `iis-thumb-nav.css` after `ideal-image-slider.css`.
